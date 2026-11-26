@@ -1,0 +1,19 @@
+# Runtime / build artifacts
+.tmp/
+tools/.cache/
+tools/build/
+tools/__pycache__/
+__pycache__/
+*.py[cod]
+
+# Local browser / test profiles
+.edge-profile/
+.qa-profile/
+*.log
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
